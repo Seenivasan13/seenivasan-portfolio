@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+   background-image: conic-gradient(lightblue, #e9db7f,#FFF886 , #78ffd6, lightblue);
 }
 
 html {
